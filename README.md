@@ -3,6 +3,7 @@
 1. clone Reposatory
 2. npm install
 3. npm run android
+ *************** Screen Shorts ****************
 
 ![c-1](https://user-images.githubusercontent.com/88420801/163209654-6b8d3a82-f0f4-4a57-b1b3-8f9b2514c4e8.jpeg)
 ![c-2](https://user-images.githubusercontent.com/88420801/163209665-79073db6-c62b-43eb-8afe-3d523406a759.jpeg)
